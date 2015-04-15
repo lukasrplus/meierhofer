@@ -1,6 +1,17 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  background-color: #ecf0f1;
+}
+
+
 h3 {
   font-family: 'Bangers', cursive;
   text-align: center;
   margin-top: 90px;
-  font-size: 300px;
+  font-size: 100px;
+}
+
+p {
+
 }
